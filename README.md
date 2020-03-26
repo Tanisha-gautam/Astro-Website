@@ -1,2 +1,2 @@
 # AstroWebsite
-You can find every information related to the field of astronomy
+This website contains info related to astronomy
